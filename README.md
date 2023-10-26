@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @danruehle
+- 👋 Hi, I’m Dan Ruehle (@danruehle, pronounced Really)
 - 👀 I’m interested in scaling, performance, maintainability, and learning
-- 🌱 I’m currently learning how to be a better manager
+- 🌱 I’m currently working on my pool game
 - 💞️ I’m looking to collaborate on software to help nonprofit organizations like swim teams
 - 📫 How to reach me dan@reallyinc.com
 
